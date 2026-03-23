@@ -1,12 +1,14 @@
-# Morocco WC2022 — Spatial Defensive Analysis
+# Morocco WC2022 — Defensive Efficiency & Attacking Precision
 
 **Quantifying the Blueprint: How Morocco Reached the 2022 World Cup Semifinals**
 
-Using StatsBomb event and 360 data from FIFA World Cup 2022, this project 
-analyses Morocco's defensive spatial efficiency across 7 matches — examining 
-how their mid-block structure suppressed opponent xG, the spatial footprint 
-of Amrabat's pressing role, and whether their counter-attacking efficiency 
-reflected genuine chance quality or clinical finishing above expectation.
+Using StatsBomb event and 360 data from FIFA World Cup 2022, this project
+analyses Morocco's performance across 7 matches from two complementary angles:
+how their mid-block structure spatially suppressed opponent xG beyond what
+defensive volume metrics suggest, and whether their attacking output reflected
+genuine chance quality or clinical finishing above expectation. Together, these
+two lenses quantify what made Morocco's run exceptional — and what teams at a
+similar level can learn ahead of WC2026.
 
 ## Data Source
 StatsBomb Open Data — FIFA World Cup 2022  
