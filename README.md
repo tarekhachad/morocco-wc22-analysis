@@ -27,13 +27,19 @@ StatsBomb Open Data — FIFA World Cup 2022
 | `jupyterlab` | Analysis environment |
 
 ## Project Structure
-\```
-morocco-wc2022-analysis/
-├── data/processed/     # Cleaned player/event DataFrames
-├── notebooks/          # Analysis notebooks
-├── reports/figures/    # Exported visualisations
-└── src/                # Helper functions
-\```
+```
+morocco-wc22-analysis/
+├── data/
+│   ├── raw/            # StatsBomb JSON files (gitignored)
+│   └── processed/      # Cleaned DataFrames (gitignored)
+├── notebooks/          # Jupyter notebooks
+├── reports/
+│   └── figures/        # Exported visualisations
+├── src/                # Helper functions
+├── .gitignore
+├── README.md
+└── requirements.txt
+```
 
 ## Status
 🔄 In progress — March 2026
