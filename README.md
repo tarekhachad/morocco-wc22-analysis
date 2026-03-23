@@ -1,4 +1,4 @@
-# Morocco WC2022 — Defensive Efficiency & Attacking Precision
+# Morocco WC2022 - Defensive Efficiency & Attacking Precision
 
 **Quantifying the Blueprint: How Morocco Reached the 2022 World Cup Semifinals**
 
@@ -7,11 +7,11 @@ analyses Morocco's performance across 7 matches from two complementary angles:
 how their mid-block structure spatially suppressed opponent xG beyond what
 defensive volume metrics suggest, and whether their attacking output reflected
 genuine chance quality or clinical finishing above expectation. Together, these
-two lenses quantify what made Morocco's run exceptional — and what teams at a
+two lenses quantify what made Morocco's run exceptional, and what teams at a
 similar level can learn ahead of WC2026.
 
 ## Data Source
-StatsBomb Open Data — FIFA World Cup 2022  
+StatsBomb Open Data - FIFA World Cup 2022  
 `competition_id=43`, `season_id=106`  
 [github.com/statsbomb/open-data](https://github.com/statsbomb/open-data)
 
@@ -24,7 +24,7 @@ StatsBomb Open Data — FIFA World Cup 2022
 | `plotly` | Interactive charts |
 | `seaborn` / `matplotlib` | Static charts and heatmaps |
 | `sqlite3` | Local database storage |
-| `jupyterlab` | Analysis environment |
+| `jupyter` / VS Code | Analysis environment |
 
 ## Project Structure
 ```
@@ -42,4 +42,4 @@ morocco-wc22-analysis/
 ```
 
 ## Status
-🔄 In progress — March 2026
+🔄 In progress - March 2026
