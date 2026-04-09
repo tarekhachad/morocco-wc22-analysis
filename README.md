@@ -61,21 +61,21 @@ StatsBomb Open Data — FIFA World Cup 2022
 
 ## Project Structure
 
-morocco-wc22-analysis/
-├── data/
-│   ├── raw/                # StatsBomb JSON (gitignored)
-│   └── processed/          # SQLite DB + cleaned data (gitignored)
-├── notebooks/
-│   └── 01_morocco_analysis.ipynb
-├── reports/
-│   └── figures/
-│       ├── 3a_defensive_map.png
-│       └── 3b_opponent_shot_map.png
-├── src/                    # Helper modules (future)
-├── REFERENCES.md           # Academic and analytical sources
-├── requirements.txt
-├── LICENSE
-└── README.md
+    morocco-wc22-analysis/
+    ├── data/
+    │   ├── raw/                # StatsBomb JSON (gitignored)
+    │   └── processed/          # SQLite DB + cleaned data (gitignored)
+    ├── notebooks/
+    │   └── 01_morocco_analysis.ipynb
+    ├── reports/
+    │   └── figures/
+    │       ├── 3a_defensive_map.png
+    │       └── 3b_opponent_shot_map.png
+    ├── src/                    # Helper modules (future)
+    ├── REFERENCES.md           # Academic and analytical sources
+    ├── requirements.txt
+    ├── LICENSE
+    └── README.md
 
 ## References
 
